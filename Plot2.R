@@ -33,4 +33,4 @@ with(subHhpower,plot(DateTime,Global_active_power,type="l", ylab="Global Active 
 ## plot2 in png
 
 png("plot2.png",height = 480,width=480)
-dev.off()
+dev.off() 
