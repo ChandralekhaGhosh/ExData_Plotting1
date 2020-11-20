@@ -23,3 +23,5 @@ hist(as.numeric(as.character(subHhpower$Global_active_power)),col="red",main="Gl
 
 png("plot1.png",width=480,height = 480)
 dev.off()
+
+## Completed
