@@ -37,3 +37,4 @@ legend ("topright",col=c("black","red","blue"),lty=1,lwd=2,legend=c("Sub_meterin
 ## plot3 in png
 png("Plot3.png",height = 480,width=480)
 dev.off()
+ 
