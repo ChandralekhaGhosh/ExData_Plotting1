@@ -41,4 +41,4 @@ with(subHhpower,{
 ## plot4 in png
 
 png("plot4.png",height = 480,width = 480)
-dev.off()
+dev.off() 
